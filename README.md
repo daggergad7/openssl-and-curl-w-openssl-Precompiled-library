@@ -1,4 +1,4 @@
-# openssl-and-curl-w-openssl-precomplied-library
+# openSSL and CUrl (w/ openSSL) Precompiled library
 
 in C/C++ -> General -> Additional Include Directories add:
 
